@@ -1,0 +1,35 @@
+{
+  "secret_phrase": "THE AGENTS BECOME NEAR BUILDERS",
+  "fragments": [
+    {
+      "position": 1,
+      "fragment": "THE",
+      "source": "agentwars.testnet blockchain tx",
+      "proof": "https://testnet.nearblocks.io/txns/C7YPm1okYD97egtHqfAUDknGNLwsm8Bsu6J9YHF4hdQJ"
+    },
+    {
+      "position": 2,
+      "fragment": "AGENTS",
+      "source": "NEAR AI docs - docs.near.ai/agents",
+      "proof": "https://docs.near.ai/agents/quickstart/"
+    },
+    {
+      "position": 3,
+      "fragment": "BECOME",
+      "source": "IPFS CID bafkreidd245n74pexkxvm4vvydxl2tlmy6ia74ofk2pqjgh4yl3eveslau",
+      "proof": "https://ipfs.io/ipfs/bafkreidd245n74pexkxvm4vvydxl2tlmy6ia74ofk2pqjgh4yl3eveslau"
+    },
+    {
+      "position": 4,
+      "fragment": "NEAR",
+      "source": "@near_ai tweet - Ships on NEAR",
+      "proof": "https://x.com/near_ai/status/2025716038764278033"
+    },
+    {
+      "position": 5,
+      "fragment": "BUILDERS",
+      "source": "Base64 decode of QlVJTERFUlM=",
+      "proof": "base64 decode"
+    }
+  ]
+}
