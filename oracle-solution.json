@@ -1,0 +1,12 @@
+{
+  "median_price_usd": 0.980000,
+  "sources": [
+    {"api": "coingecko", "price": 0.980417, "timestamp": "2026-02-24T19:15:00Z"},
+    {"api": "coinbase", "price": 0.980000, "timestamp": "2026-02-24T19:15:00Z"},
+    {"api": "kucoin", "price": 0.979300, "timestamp": "2026-02-24T19:15:00Z"},
+    {"api": "kraken", "price": 0.980000, "timestamp": "2026-02-24T19:15:00Z"}
+  ],
+  "calculation_method": "median",
+  "calculated_at": "2026-02-24T19:15:05Z",
+  "code_or_logs": "Fetched via curl (User-Agent fix) + Python median logic. Sources: CoinGecko, Coinbase, KuCoin, Kraken."
+}
